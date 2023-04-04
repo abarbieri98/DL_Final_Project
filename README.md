@@ -2,7 +2,7 @@
 ## A. Barbieri - A. Pederzani
 
 The aim of this project is to replicate (at least partially) the model and the results presented in this [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/49182f81e6a13cf5eaa496d51fea6406-Paper.pdf), approaching the style transfer task by means 
-of autoencoders trained for image reconstruction and the WCT transformation presented.
+of autoencoders trained for image reconstruction and the WCT transformation presented, pertrubing the latent representation of the input image.
 
 ## Folder Content
 
